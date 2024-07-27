@@ -4,7 +4,7 @@ Code for "Lightweight Multiobject Ship Tracking Algorithm Based on Trajectory As
 
 
 
-![gif](E:\DevProjects\PycharmProject\Dengzh\VTM-YS\gif.gif)
+![Image text](https://github.com/super611/VTM-YS/blob/main/gif.gif)
 
 
 
@@ -56,12 +56,9 @@ python train.py --cfg cfg/improve/yolov7-tiny-pplcnet-pconv-slimbipanet-ca.yaml 
 
 
 
-![test_batch1_pred](E:\DevProjects\PycharmProject\Dengzh\VTM-YS\test_batch1_pred.jpg)
+![Image text](https://github.com/super611/VTM-YS/blob/main/test_batch1_pred.jpg)
+
+
 
 
 </details>
-
-
-
-
->>>>>>> 2154ae5 (first commit)
